@@ -2,7 +2,7 @@
 
 namespace crazedsanity\lockfile;
 
-use crazedsanity\core\FileSystem;
+use crazedsanity\filesystem\FileSystem;
 use \InvalidArgumentException;
 use \ErrorException;
 use \Exception;
